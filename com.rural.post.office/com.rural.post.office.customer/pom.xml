@@ -8,8 +8,8 @@
 		<version>4.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rural.post.office</groupId>
-	<artifactId>com.rural.post.office</artifactId>
+	<groupId>com.rural.post.office.customer</groupId>
+	<artifactId>customer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rural post office</name>
 	<description>rural post office project in Spring Boot</description>
