@@ -1,0 +1,7 @@
+com\rural\post\office\customer\entity\User$UserBuilder.class
+com\rural\post\office\customer\entity\Customer.class
+com\rural\post\office\customer\dto\AuthRequest.class
+com\rural\post\office\customer\RuralPostOfficeCustomerApplication.class
+com\rural\post\office\customer\entity\User.class
+com\rural\post\office\customer\entity\Customer$CustomerBuilder.class
+com\rural\post\office\customer\dto\CustomerRequestDto.class
